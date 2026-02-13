@@ -7,7 +7,7 @@ An in-depth data analysis project exploring the world of **Game of Thrones** (Se
 * **Datasets:** Analyzed multiple datasets including character screen time, episode details, and house affiliations.
 * **Cleaning:** Used Power Query to handle missing data and format time durations (Screen Time) for accurate visualization.
 * **Metrics:** Defined custom DAX measures for Average Ratings and Total Viewership.
-* 
+
 * ## 📊 2. Key Insights & Analysis
 The analysis covers several critical dimensions of the show:
 - **Viewer Statistics:** Tracking the growth of U.S. viewers from Season 1 to the series finale (Totaling **470.69M** viewers).
@@ -23,3 +23,11 @@ The interactive dashboard includes:
     - Bar charts for character screen time.
     - Donut charts for Alive vs. Deceased distribution.
     - Tree maps for house-based mortality.
+ 
+## 🛠 Tools Used
+Power BI
+
+## 📎 Dataset
+- `Game_of_Thrones.csv`: Detailed episode information.
+- `char.csv`: Character-specific metadata and screen time.
+
